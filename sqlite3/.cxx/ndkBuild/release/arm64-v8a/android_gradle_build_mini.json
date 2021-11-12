@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "D:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\src\\main\\jni\\Android.mk",
+    "D:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\Sdk\\ndk\\21.3.6528147\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\src\\main\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/Android/AndroidStudioProjects/sqlite/sqlite3/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "buildTargetsCommand": "D:\\Android\\Sdk\\ndk\\21.3.6528147\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\src\\main\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/Android/AndroidStudioProjects/sqlite/sqlite3/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\build\\intermediates\\ndkBuild\\release\\lib {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "sqliteX-release-arm64-v8a": {
+      "artifactName": "sqliteX",
+      "buildCommand": "D:\\Android\\Sdk\\ndk\\21.3.6528147\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\src\\main\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/Android/AndroidStudioProjects/sqlite/sqlite3/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\build\\intermediates\\ndkBuild\\release\\lib D:/Android/AndroidStudioProjects/sqlite/sqlite3/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libsqliteX.so",
+      "abi": "arm64-v8a",
+      "output": "D:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\build\\intermediates\\ndkBuild\\release\\obj\\local\\arm64-v8a\\libsqliteX.so",
+      "runtimeFiles": []
+    }
+  }
+}

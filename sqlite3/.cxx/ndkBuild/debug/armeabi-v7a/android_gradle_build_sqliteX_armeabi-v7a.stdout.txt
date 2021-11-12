@@ -1,0 +1,2 @@
+[armeabi-v7a] Compile thumb  : sqliteX <= assetvfs.c
+[armeabi-v7a] SharedLibrary  : libsqliteX.so

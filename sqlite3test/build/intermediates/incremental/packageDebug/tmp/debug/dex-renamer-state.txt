@@ -1,0 +1,4 @@
+#Fri Nov 12 19:00:08 EET 2021
+base.0=D\:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3test\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
