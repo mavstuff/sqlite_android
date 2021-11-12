@@ -30,23 +30,22 @@
 20-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:10:9-41
 21        android:supportsRtl="true"
 21-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:11:9-35
-22        android:testOnly="true"
-23        android:theme="@style/AppTheme" >
-23-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:12:9-40
-24        <activity android:name="org.sqlite.customsqlitetest.MainActivity" >
-24-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:13:9-19:20
-24-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:13:19-47
-25            <intent-filter>
-25-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:14:13-18:29
-26                <action android:name="android.intent.action.MAIN" />
-26-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:15:17-69
-26-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:15:25-66
-27
-28                <category android:name="android.intent.category.LAUNCHER" />
-28-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:17:17-77
-28-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:17:27-74
-29            </intent-filter>
-30        </activity>
-31    </application>
-32
-33</manifest>
+22        android:theme="@style/AppTheme" >
+22-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:12:9-40
+23        <activity android:name="org.sqlite.customsqlitetest.MainActivity" >
+23-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:13:9-19:20
+23-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:13:19-47
+24            <intent-filter>
+24-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:14:13-18:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:15:17-69
+25-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:15:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:17:17-77
+27-->D:\Android\AndroidStudioProjects\sqlite\sqlite3test\src\main\AndroidManifest.xml:17:27-74
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>
