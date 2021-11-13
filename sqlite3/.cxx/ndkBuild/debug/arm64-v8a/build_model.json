@@ -4,14 +4,14 @@
   "buildSettings": {
     "environmentVariables": []
   },
-  "cxxBuildFolder": "D:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\.cxx\\ndkBuild\\debug\\arm64-v8a",
+  "cxxBuildFolder": "J:\\Android\\Projects\\sqlite_android\\sqlite3\\.cxx\\ndkBuild\\debug\\arm64-v8a",
   "info": {
     "abi": "ARM64_V8A",
     "bitness": 64,
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "D:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\.cxx\\ndkBuild\\debug\\arm64-v8a",
+  "originalCxxBuildFolder": "J:\\Android\\Projects\\sqlite_android\\sqlite3\\.cxx\\ndkBuild\\debug\\arm64-v8a",
   "variant": {
     "buildSystemArgumentList": [],
     "buildTargetSet": [],
@@ -22,20 +22,20 @@
     "isDebuggableEnabled": true,
     "module": {
       "buildSystem": "NDK_BUILD",
-      "cmakeToolchainFile": "D:\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
-      "cxxFolder": "D:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\.cxx",
+      "cmakeToolchainFile": "J:\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+      "cxxFolder": "J:\\Android\\Projects\\sqlite_android\\sqlite3\\.cxx",
       "gradleModulePathName": ":sqlite3",
-      "intermediatesFolder": "D:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\build\\intermediates",
-      "makeFile": "D:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\src\\main\\jni\\Android.mk",
-      "moduleBuildFile": "D:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\build.gradle",
-      "moduleRootFolder": "D:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3",
+      "intermediatesFolder": "J:\\Android\\Projects\\sqlite_android\\sqlite3\\build\\intermediates",
+      "makeFile": "J:\\Android\\Projects\\sqlite_android\\sqlite3\\src\\main\\jni\\Android.mk",
+      "moduleBuildFile": "J:\\Android\\Projects\\sqlite_android\\sqlite3\\build.gradle",
+      "moduleRootFolder": "J:\\Android\\Projects\\sqlite_android\\sqlite3",
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
         "X86",
         "X86_64"
       ],
-      "ndkFolder": "D:\\Android\\Sdk\\ndk\\21.3.6528147",
+      "ndkFolder": "J:\\Android\\Sdk\\ndk\\21.3.6528147",
       "ndkMetaAbiList": [
         {
           "abi": "ARMEABI_V7A",
@@ -93,29 +93,29 @@
       "ndkDefaultStl": "SYSTEM",
       "ndkVersion": "21.3.6528147",
       "project": {
-        "compilerSettingsCacheFolder": "D:\\Android\\AndroidStudioProjects\\sqlite\\.cxx",
-        "cxxFolder": "D:\\Android\\AndroidStudioProjects\\sqlite\\.cxx",
+        "compilerSettingsCacheFolder": "J:\\Android\\Projects\\sqlite_android\\.cxx",
+        "cxxFolder": "J:\\Android\\Projects\\sqlite_android\\.cxx",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
-        "rootBuildGradleFolder": "D:\\Android\\AndroidStudioProjects\\sqlite",
-        "sdkFolder": "D:\\Android\\Sdk",
+        "rootBuildGradleFolder": "J:\\Android\\Projects\\sqlite_android",
+        "sdkFolder": "J:\\Android\\Sdk",
         "isPrefabEnabled": false
       },
       "splitsAbiFilterSet": [],
       "stlSharedObjectMap": {
         "LIBCXX_SHARED": {
-          "ARMEABI_V7A": "D:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
-          "ARM64_V8A": "D:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
-          "X86": "D:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
-          "X86_64": "D:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+          "ARMEABI_V7A": "J:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "J:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "J:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "J:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
         },
         "LIBCXX_STATIC": {},
         "NONE": {},
         "SYSTEM": {}
       }
     },
-    "objFolder": "D:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\build\\intermediates\\ndkBuild\\debug\\obj\\local",
+    "objFolder": "J:\\Android\\Projects\\sqlite_android\\sqlite3\\build\\intermediates\\ndkBuild\\debug\\obj\\local",
     "variantName": "debug",
     "validAbiList": [
       "ARMEABI_V7A",
@@ -123,8 +123,8 @@
       "X86",
       "X86_64"
     ],
-    "prefabDirectory": "D:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\.cxx\\ndkBuild\\debug\\prefab",
+    "prefabDirectory": "J:\\Android\\Projects\\sqlite_android\\sqlite3\\.cxx\\ndkBuild\\debug\\prefab",
     "prefabPackageDirectoryList": []
   },
-  "prefabFolder": "D:\\Android\\AndroidStudioProjects\\sqlite\\sqlite3\\.cxx\\ndkBuild\\debug\\prefab\\arm64-v8a"
+  "prefabFolder": "J:\\Android\\Projects\\sqlite_android\\sqlite3\\.cxx\\ndkBuild\\debug\\prefab\\arm64-v8a"
 }

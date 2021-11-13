@@ -425,8 +425,10 @@ public class MainActivity extends AppCompatActivity {
 
         try {
             SQLiteGlobal.nativeRegisterAssetManager(this.getAssets());
-            custom_test();
+
             report_version();
+
+            custom_test();
             run_ds_test();
             helper_test_1();
             supp_char_test_1();
@@ -541,8 +543,13 @@ public class MainActivity extends AppCompatActivity {
         s = db.compileStatement("SELECT COUNT(*) FROM books");
         res = s.simpleQueryForString();
 
-        test_result("custom_test", res, "77", t0);
+        test_result("custom_test_1", res, "77", t0);
+        final long t1 = System.nanoTime();
 
+        s = db.compileStatement("SELECT \"ы\" LIKE \"Ы\"");
+        res = s.simpleQueryForString();
+
+        test_result("custom_test_2", res, "1", t1);
 
         db.close();
     }

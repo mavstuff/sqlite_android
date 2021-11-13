@@ -1,137 +1,137 @@
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/build/intermediates/ndkBuild/debug/obj/local/x86/objs-debug/sqliteX/JNIHelp.o: \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\JNIHelp.cpp \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\nativehelper\JniConstants.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\nativehelper\JNIHelp.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\nativehelper\jni.h \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__config \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\nativehelper\JNIHelp.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\ALog-priv.h \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\string.h \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\string \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\string_view \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__string \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\algorithm \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\initializer_list \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\type_traits \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstring \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\utility \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__tuple \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstdint \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\version \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__debug \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\iosfwd \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\wchar.h \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\memory \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\typeinfo \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\exception \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstdlib \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\new \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\limits \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\iterator \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__functional_base \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\tuple \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdexcept \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cassert \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\atomic \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\functional \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\bit \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstdio \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cwchar \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cwctype \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cctype \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\wctype.h
+J:/Android/Projects/sqlite_android/sqlite3/build/intermediates/ndkBuild/debug/obj/local/x86/objs-debug/sqliteX/JNIHelp.o: \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\JNIHelp.cpp \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\nativehelper\JniConstants.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\nativehelper\JNIHelp.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\nativehelper\jni.h \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__config \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\nativehelper\JNIHelp.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\ALog-priv.h \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\string.h \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\string \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\string_view \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__string \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\algorithm \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\initializer_list \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\type_traits \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstring \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\utility \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__tuple \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstdint \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\version \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__debug \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\iosfwd \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\wchar.h \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\memory \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\typeinfo \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\exception \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstdlib \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\new \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\limits \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\iterator \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__functional_base \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\tuple \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdexcept \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cassert \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\atomic \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\functional \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\bit \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstdio \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cwchar \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cwctype \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cctype \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\wctype.h
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\nativehelper\JniConstants.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\nativehelper\JniConstants.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\nativehelper\JNIHelp.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\nativehelper\JNIHelp.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\nativehelper\jni.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\nativehelper\jni.h:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__config:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__config:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\nativehelper\JNIHelp.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\nativehelper\JNIHelp.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\ALog-priv.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\ALog-priv.h:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\string.h:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\string.h:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\string:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\string:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\string_view:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\string_view:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__string:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__string:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\algorithm:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\algorithm:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\initializer_list:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\initializer_list:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\type_traits:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\type_traits:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstring:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstring:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\utility:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\utility:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__tuple:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__tuple:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstdint:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstdint:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\version:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\version:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__debug:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__debug:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\iosfwd:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\iosfwd:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\wchar.h:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\wchar.h:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\memory:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\memory:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\typeinfo:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\typeinfo:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\exception:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\exception:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstdlib:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstdlib:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\new:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\new:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\limits:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\limits:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\iterator:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\iterator:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__functional_base:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__functional_base:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\tuple:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\tuple:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdexcept:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdexcept:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cassert:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cassert:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\atomic:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\atomic:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\functional:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\functional:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\bit:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\bit:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstdio:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cstdio:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cwchar:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cwchar:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cwctype:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cwctype:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cctype:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\cctype:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\wctype.h:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\wctype.h:

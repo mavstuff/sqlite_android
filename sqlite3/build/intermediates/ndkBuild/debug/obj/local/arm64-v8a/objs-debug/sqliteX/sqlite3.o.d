@@ -1,110 +1,110 @@
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/objs-debug/sqliteX/sqlite3.o: \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\sqlite3.c \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__config \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\string.h \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stddef.h \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\math.h \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\errno.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\utypes.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\umachine.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\ptypes.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\platform.h \
-  D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\inttypes.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\urename.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\utf.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\utf8.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\utf16.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\utf_old.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uversion.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uvernum.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uconfig.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uregex.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\utext.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uchar.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\localpointer.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\parseerr.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\ustring.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\putil.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uiter.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\ucol.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\unorm.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\unorm2.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uset.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uloc.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uenum.h \
-  D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\ubrk.h
+J:/Android/Projects/sqlite_android/sqlite3/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/objs-debug/sqliteX/sqlite3.o: \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\sqlite3.c \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__config \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\string.h \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stddef.h \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\math.h \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\errno.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\utypes.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\umachine.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\ptypes.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\platform.h \
+  J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\inttypes.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\urename.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\utf.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\utf8.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\utf16.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\utf_old.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uversion.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uvernum.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uconfig.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uregex.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\utext.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uchar.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\localpointer.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\parseerr.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\ustring.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\putil.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uiter.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\ucol.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\unorm.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\unorm2.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uset.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uloc.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uenum.h \
+  J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\ubrk.h
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__config:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\__config:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\string.h:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\string.h:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stddef.h:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\stddef.h:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\math.h:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\math.h:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\errno.h:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\errno.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\utypes.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\utypes.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\umachine.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\umachine.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\ptypes.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\ptypes.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\platform.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\platform.h:
 
-D:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\inttypes.h:
+J:\Android\Sdk\ndk\21.3.6528147\build\\..\sources\cxx-stl\llvm-libc++\include\inttypes.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\urename.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\urename.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\utf.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\utf.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\utf8.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\utf8.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\utf16.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\utf16.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\utf_old.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\utf_old.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uversion.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uversion.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uvernum.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uvernum.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uconfig.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uconfig.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uregex.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uregex.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\utext.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\utext.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uchar.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uchar.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\localpointer.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\localpointer.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\parseerr.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\parseerr.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\ustring.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\ustring.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\putil.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\putil.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uiter.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uiter.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\ucol.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\ucol.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\unorm.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\unorm.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\unorm2.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\unorm2.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uset.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uset.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uloc.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uloc.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\uenum.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\uenum.h:
 
-D:\Android\AndroidStudioProjects\sqlite\sqlite3\src\main\jni\sqlite\..\icu\unicode\ubrk.h:
+J:\Android\Projects\sqlite_android\sqlite3\src\main\jni\sqlite\..\icu\unicode\ubrk.h:

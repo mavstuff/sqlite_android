@@ -1,4 +1,11 @@
-// Made from SQlite demo vfs source code
+// assetvfs - virtual filesystem for SQLite that allows opening the files 
+// from Android assets (C) 2021 Artem Moroz, artem.moroz[at]gmail.com
+//
+// To open the database from assets, use the following Java code:
+// SQLiteDatabase db = SQLiteDatabase.openDatabase("file:yourfile.db?vfs=assetvfs", null, SQLiteDatabase.OPEN_READONLY);
+// 
+// 
+
 #include "sqlite3.h"
 
 #include <assert.h>

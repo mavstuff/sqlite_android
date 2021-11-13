@@ -1,348 +1,348 @@
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1384:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1384:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_TABLE32:
          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1383:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1383:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_TABLE16:
          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1380:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1380:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_STRING_V2:
          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1391:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1391:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_ARRAY16:
          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1439:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1439:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
         case URES_TABLE32:
              ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1438:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1438:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
         case URES_TABLE16:
              ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1434:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1434:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
         case URES_STRING_V2:
              ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1446:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1446:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
         case URES_ARRAY16:
              ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1485:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1485:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
         case URES_TABLE32:
              ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1484:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1484:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
         case URES_TABLE16:
              ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1480:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1480:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
         case URES_STRING_V2:
              ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1492:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1492:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
         case URES_ARRAY16:
              ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1528:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1528:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
         case URES_TABLE32:
              ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1527:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1527:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
         case URES_TABLE16:
              ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1524:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1524:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
         case URES_STRING_V2:
              ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1535:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1535:14: warning: case value not in enumerated type 'UResType' [-Wswitch]
         case URES_ARRAY16:
              ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1835:26: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1835:26: warning: case value not in enumerated type 'UResType' [-Wswitch]
                     case URES_STRING_V2:
                          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1857:18: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:1857:18: warning: case value not in enumerated type 'UResType' [-Wswitch]
             case URES_STRING_V2:
                  ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:2204:38: warning: 'ures_getVersionNumber' is deprecated [-Wdeprecated-declarations]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresbund.c:2204:38: warning: 'ures_getVersionNumber' is deprecated [-Wdeprecated-declarations]
     u_versionFromString(versionInfo, ures_getVersionNumber(resB));
                                      ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/unicode/ures.h:271:1: note: 'ures_getVersionNumber' has been explicitly marked deprecated here
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/unicode/ures.h:271:1: note: 'ures_getVersionNumber' has been explicitly marked deprecated here
 U_DEPRECATED const char* U_EXPORT2 
 ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:132:29: note: expanded from macro 'U_DEPRECATED'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:132:29: note: expanded from macro 'U_DEPRECATED'
 #define U_DEPRECATED U_CAPI U_ATTRIBUTE_DEPRECATED
                             ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:114:52: note: expanded from macro 'U_ATTRIBUTE_DEPRECATED'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:114:52: note: expanded from macro 'U_ATTRIBUTE_DEPRECATED'
 #    define U_ATTRIBUTE_DEPRECATED __attribute__ ((deprecated))
                                                    ^
 19 warnings generated.
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:398:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:398:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_TABLE32:
          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:403:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:403:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_TABLE16:
          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:391:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:391:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_STRING_V2:
          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:402:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:402:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_ARRAY16:
          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:439:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:439:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_TABLE32: {
          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:430:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:430:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_TABLE16: {
          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:483:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:483:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_TABLE32: {
          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:472:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:472:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_TABLE16: {
          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:518:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:518:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_ARRAY16: {
          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:686:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:686:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_TABLE16:
          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:687:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:687:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_STRING_V2:
          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:689:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:689:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_ARRAY16:
          ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:744:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uresdata.c:744:10: warning: case value not in enumerated type 'UResType' [-Wswitch]
     case URES_TABLE32:
          ^
 13 warnings generated.
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/ustr_wcs.c:45:9: warning: 'MB_CUR_MAX' macro redefined [-Wmacro-redefined]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/ustr_wcs.c:45:9: warning: 'MB_CUR_MAX' macro redefined [-Wmacro-redefined]
 #define MB_CUR_MAX (1)
         ^
-D:/Android/Sdk/ndk/21.3.6528147/build//../toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\stdlib.h:228:9: note: previous definition is here
+J:/Android/Sdk/ndk/21.3.6528147/build//../toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\stdlib.h:228:9: note: previous definition is here
 #define MB_CUR_MAX __ctype_get_mb_cur_max()
         ^
 1 warning generated.
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/brkiter.cpp:97:17: warning: 'ures_getLocale' is deprecated [-Wdeprecated-declarations]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/brkiter.cpp:97:17: warning: 'ures_getLocale' is deprecated [-Wdeprecated-declarations]
                 ures_getLocale(brkName, &status),
                 ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/unicode/ures.h:299:1: note: 'ures_getLocale' has been explicitly marked deprecated here
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/unicode/ures.h:299:1: note: 'ures_getLocale' has been explicitly marked deprecated here
 U_DEPRECATED const char* U_EXPORT2 
 ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:132:29: note: expanded from macro 'U_DEPRECATED'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:132:29: note: expanded from macro 'U_DEPRECATED'
 #define U_DEPRECATED U_CAPI U_ATTRIBUTE_DEPRECATED
                             ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:114:52: note: expanded from macro 'U_ATTRIBUTE_DEPRECATED'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:114:52: note: expanded from macro 'U_ATTRIBUTE_DEPRECATED'
 #    define U_ATTRIBUTE_DEPRECATED __attribute__ ((deprecated))
                                                    ^
 1 warning generated.
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/locid.cpp:454:10: warning: reference cannot be bound to dereferenced null pointer in well-defined C++ code; comparison may be assumed to always evaluate to false [-Wtautological-undefined-compare]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/locid.cpp:454:10: warning: reference cannot be bound to dereferenced null pointer in well-defined C++ code; comparison may be assumed to always evaluate to false [-Wtautological-undefined-compare]
     if (&other == NULL) {
          ^~~~~    ~~~~
 1 warning generated.
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/resbund.cpp:363:12: warning: 'ures_getVersionNumber' is deprecated [-Wdeprecated-declarations]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/resbund.cpp:363:12: warning: 'ures_getVersionNumber' is deprecated [-Wdeprecated-declarations]
     return ures_getVersionNumber(fResource);
            ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/unicode/ures.h:271:1: note: 'ures_getVersionNumber' has been explicitly marked deprecated here
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/unicode/ures.h:271:1: note: 'ures_getVersionNumber' has been explicitly marked deprecated here
 U_DEPRECATED const char* U_EXPORT2 
 ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:132:29: note: expanded from macro 'U_DEPRECATED'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:132:29: note: expanded from macro 'U_DEPRECATED'
 #define U_DEPRECATED U_CAPI U_ATTRIBUTE_DEPRECATED
                             ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:114:52: note: expanded from macro 'U_ATTRIBUTE_DEPRECATED'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:114:52: note: expanded from macro 'U_ATTRIBUTE_DEPRECATED'
 #    define U_ATTRIBUTE_DEPRECATED __attribute__ ((deprecated))
                                                    ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/resbund.cpp:376:34: warning: 'ures_getLocale' is deprecated [-Wdeprecated-declarations]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/resbund.cpp:376:34: warning: 'ures_getLocale' is deprecated [-Wdeprecated-declarations]
         const char *localeName = ures_getLocale(fResource, &status);
                                  ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/unicode/ures.h:299:1: note: 'ures_getLocale' has been explicitly marked deprecated here
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/unicode/ures.h:299:1: note: 'ures_getLocale' has been explicitly marked deprecated here
 U_DEPRECATED const char* U_EXPORT2 
 ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:132:29: note: expanded from macro 'U_DEPRECATED'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:132:29: note: expanded from macro 'U_DEPRECATED'
 #define U_DEPRECATED U_CAPI U_ATTRIBUTE_DEPRECATED
                             ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:114:52: note: expanded from macro 'U_ATTRIBUTE_DEPRECATED'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:114:52: note: expanded from macro 'U_ATTRIBUTE_DEPRECATED'
 #    define U_ATTRIBUTE_DEPRECATED __attribute__ ((deprecated))
                                                    ^
 2 warnings generated.
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/unistr.cpp:464:6: warning: 'this' pointer cannot be null in well-defined C++ code; comparison may be assumed to always evaluate to false [-Wtautological-undefined-compare]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/unistr.cpp:464:6: warning: 'this' pointer cannot be null in well-defined C++ code; comparison may be assumed to always evaluate to false [-Wtautological-undefined-compare]
   if(this == 0 || this == &src) {
      ^~~~    ~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/unistr.cpp:469:7: warning: reference cannot be bound to dereferenced null pointer in well-defined C++ code; comparison may be assumed to always evaluate to false [-Wtautological-undefined-compare]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/unistr.cpp:469:7: warning: reference cannot be bound to dereferenced null pointer in well-defined C++ code; comparison may be assumed to always evaluate to false [-Wtautological-undefined-compare]
   if(&src == 0 || src.isBogus()) {
       ^~~    ~
 2 warnings generated.
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/unorm.cpp:299:9: warning: comparison of array 'canonStartSets' not equal to a null pointer is always true [-Wtautological-pointer-compare]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/unorm.cpp:299:9: warning: comparison of array 'canonStartSets' not equal to a null pointer is always true [-Wtautological-pointer-compare]
         canonStartSets!=NULL
         ^~~~~~~~~~~~~~  ~~~~
 1 warning generated.
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:1505:5: warning: array index 1 is past the end of the array (which contains 1 element) [-Warray-bounds]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:1505:5: warning: array index 1 is past the end of the array (which contains 1 element) [-Warray-bounds]
     w->lsu[1]=1; w->lsu[0]=0;           /* ..  */
     ^      ~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
     decNumberUnit lsu[DECNUMUNITS];
     ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
     #define decNumberUnit uint8_t
                           ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:2944:22: warning: array index 1 is past the end of the array (which contains 1 element) [-Warray-bounds]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:2944:22: warning: array index 1 is past the end of the array (which contains 1 element) [-Warray-bounds]
         t->lsu[0]=9; t->lsu[1]=5; t->lsu[2]=2;
                      ^      ~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
     decNumberUnit lsu[DECNUMUNITS];
     ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
     #define decNumberUnit uint8_t
                           ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:2944:35: warning: array index 2 is past the end of the array (which contains 1 element) [-Warray-bounds]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:2944:35: warning: array index 2 is past the end of the array (which contains 1 element) [-Warray-bounds]
         t->lsu[0]=9; t->lsu[1]=5; t->lsu[2]=2;
                                   ^      ~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
     decNumberUnit lsu[DECNUMUNITS];
     ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
     #define decNumberUnit uint8_t
                           ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:2945:22: warning: array index 1 is past the end of the array (which contains 1 element) [-Warray-bounds]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:2945:22: warning: array index 1 is past the end of the array (which contains 1 element) [-Warray-bounds]
         a->lsu[0]=9; a->lsu[1]=1; a->lsu[2]=8;
                      ^      ~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
     decNumberUnit lsu[DECNUMUNITS];
     ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
     #define decNumberUnit uint8_t
                           ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:2945:35: warning: array index 2 is past the end of the array (which contains 1 element) [-Warray-bounds]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:2945:35: warning: array index 2 is past the end of the array (which contains 1 element) [-Warray-bounds]
         a->lsu[0]=9; a->lsu[1]=1; a->lsu[2]=8;
                                   ^      ~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
     decNumberUnit lsu[DECNUMUNITS];
     ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
     #define decNumberUnit uint8_t
                           ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:2961:22: warning: array index 1 is past the end of the array (which contains 1 element) [-Warray-bounds]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:2961:22: warning: array index 1 is past the end of the array (which contains 1 element) [-Warray-bounds]
         t->lsu[0]=9; t->lsu[1]=1; t->lsu[2]=8;
                      ^      ~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
     decNumberUnit lsu[DECNUMUNITS];
     ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
     #define decNumberUnit uint8_t
                           ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:2961:35: warning: array index 2 is past the end of the array (which contains 1 element) [-Warray-bounds]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:2961:35: warning: array index 2 is past the end of the array (which contains 1 element) [-Warray-bounds]
         t->lsu[0]=9; t->lsu[1]=1; t->lsu[2]=8;
                                   ^      ~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
     decNumberUnit lsu[DECNUMUNITS];
     ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
     #define decNumberUnit uint8_t
                           ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:2962:22: warning: array index 1 is past the end of the array (which contains 1 element) [-Warray-bounds]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:2962:22: warning: array index 1 is past the end of the array (which contains 1 element) [-Warray-bounds]
         a->lsu[0]=9; a->lsu[1]=5; a->lsu[2]=2;
                      ^      ~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
     decNumberUnit lsu[DECNUMUNITS];
     ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
     #define decNumberUnit uint8_t
                           ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:2962:35: warning: array index 2 is past the end of the array (which contains 1 element) [-Warray-bounds]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:2962:35: warning: array index 2 is past the end of the array (which contains 1 element) [-Warray-bounds]
         a->lsu[0]=9; a->lsu[1]=5; a->lsu[2]=2;
                                   ^      ~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
     decNumberUnit lsu[DECNUMUNITS];
     ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
     #define decNumberUnit uint8_t
                           ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:5640:29: warning: array index 1 is past the end of the array (which contains 1 element) [-Warray-bounds]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.c:5640:29: warning: array index 1 is past the end of the array (which contains 1 element) [-Warray-bounds]
       if (rhs->lsu[0]==0 && rhs->lsu[1]==1 && rhs->digits==2) { /* ln(10)  */
                             ^        ~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:87:5: note: array 'lsu' declared here
     decNumberUnit lsu[DECNUMUNITS];
     ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/decNumber.h:71:27: note: expanded from macro 'decNumberUnit'
     #define decNumberUnit uint8_t
                           ^
 10 warnings generated.
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/reldtfmt.cpp:365:20: warning: comparison of two values with different enumeration types in switch statement ('UDateFormatStyle' and 'icu::DateFormat::EStyle') [-Wenum-compare-switch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/reldtfmt.cpp:365:20: warning: comparison of two values with different enumeration types in switch statement ('UDateFormatStyle' and 'icu::DateFormat::EStyle') [-Wenum-compare-switch]
                     case kShort: 
                          ^~~~~~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/reldtfmt.cpp:364:20: warning: comparison of two values with different enumeration types in switch statement ('UDateFormatStyle' and 'icu::DateFormat::EStyle') [-Wenum-compare-switch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/reldtfmt.cpp:364:20: warning: comparison of two values with different enumeration types in switch statement ('UDateFormatStyle' and 'icu::DateFormat::EStyle') [-Wenum-compare-switch]
                     case kShortRelative: 
                          ^~~~~~~~~~~~~~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/reldtfmt.cpp:361:20: warning: comparison of two values with different enumeration types in switch statement ('UDateFormatStyle' and 'icu::DateFormat::EStyle') [-Wenum-compare-switch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/reldtfmt.cpp:361:20: warning: comparison of two values with different enumeration types in switch statement ('UDateFormatStyle' and 'icu::DateFormat::EStyle') [-Wenum-compare-switch]
                     case kMedium: 
                          ^~~~~~~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/reldtfmt.cpp:360:20: warning: comparison of two values with different enumeration types in switch statement ('UDateFormatStyle' and 'icu::DateFormat::EStyle') [-Wenum-compare-switch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/reldtfmt.cpp:360:20: warning: comparison of two values with different enumeration types in switch statement ('UDateFormatStyle' and 'icu::DateFormat::EStyle') [-Wenum-compare-switch]
                     case kMediumRelative: 
                          ^~~~~~~~~~~~~~~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/reldtfmt.cpp:357:20: warning: comparison of two values with different enumeration types in switch statement ('UDateFormatStyle' and 'icu::DateFormat::EStyle') [-Wenum-compare-switch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/reldtfmt.cpp:357:20: warning: comparison of two values with different enumeration types in switch statement ('UDateFormatStyle' and 'icu::DateFormat::EStyle') [-Wenum-compare-switch]
                     case kLong: 
                          ^~~~~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/reldtfmt.cpp:356:20: warning: comparison of two values with different enumeration types in switch statement ('UDateFormatStyle' and 'icu::DateFormat::EStyle') [-Wenum-compare-switch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/reldtfmt.cpp:356:20: warning: comparison of two values with different enumeration types in switch statement ('UDateFormatStyle' and 'icu::DateFormat::EStyle') [-Wenum-compare-switch]
                     case kLongRelative: 
                          ^~~~~~~~~~~~~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/reldtfmt.cpp:353:20: warning: comparison of two values with different enumeration types in switch statement ('UDateFormatStyle' and 'icu::DateFormat::EStyle') [-Wenum-compare-switch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/reldtfmt.cpp:353:20: warning: comparison of two values with different enumeration types in switch statement ('UDateFormatStyle' and 'icu::DateFormat::EStyle') [-Wenum-compare-switch]
                     case kFull: 
                          ^~~~~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/reldtfmt.cpp:352:20: warning: comparison of two values with different enumeration types in switch statement ('UDateFormatStyle' and 'icu::DateFormat::EStyle') [-Wenum-compare-switch]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/reldtfmt.cpp:352:20: warning: comparison of two values with different enumeration types in switch statement ('UDateFormatStyle' and 'icu::DateFormat::EStyle') [-Wenum-compare-switch]
                     case kFullRelative: 
                          ^~~~~~~~~~~~~
 8 warnings generated.
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/islamcal.cpp:448:33: warning: reference cannot be bound to dereferenced null pointer in well-defined C++ code; comparison may be assumed to always evaluate to false [-Wtautological-undefined-compare]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/islamcal.cpp:448:33: warning: reference cannot be bound to dereferenced null pointer in well-defined C++ code; comparison may be assumed to always evaluate to false [-Wtautological-undefined-compare]
     if (U_FAILURE(status) || (&(getTimeZone()) == NULL && !getTimeZone().useDaylightTime())) 
                                ~^~~~~~~~~~~~~~    ~~~~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/unicode/calendar.h:782:21: note: 'getTimeZone' returns a reference
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/unicode/calendar.h:782:21: note: 'getTimeZone' returns a reference
     const TimeZone& getTimeZone(void) const;
                     ^
 1 warning generated.
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/msgfmt.cpp:973:14: warning: reference cannot be bound to dereferenced null pointer in well-defined C++ code; comparison may be assumed to always evaluate to false [-Wtautological-undefined-compare]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/msgfmt.cpp:973:14: warning: reference cannot be bound to dereferenced null pointer in well-defined C++ code; comparison may be assumed to always evaluate to false [-Wtautological-undefined-compare]
         if (&newFormat == NULL) {
              ^~~~~~~~~    ~~~~
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/msgfmt.cpp:1028:18: warning: reference cannot be bound to dereferenced null pointer in well-defined C++ code; comparison may be assumed to always evaluate to false [-Wtautological-undefined-compare]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/msgfmt.cpp:1028:18: warning: reference cannot be bound to dereferenced null pointer in well-defined C++ code; comparison may be assumed to always evaluate to false [-Wtautological-undefined-compare]
             if (&newFormat == NULL) {
                  ^~~~~~~~~    ~~~~
 2 warnings generated.
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/ucol_sit.cpp:888:25: warning: 'ucol_getContractions' is deprecated [-Wdeprecated-declarations]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/ucol_sit.cpp:888:25: warning: 'ucol_getContractions' is deprecated [-Wdeprecated-declarations]
     int32_t contsSize = ucol_getContractions(coll, contractions, status);
                         ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/unicode/ucol.h:349:1: note: 'ucol_getContractions' has been explicitly marked deprecated here
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/unicode/ucol.h:349:1: note: 'ucol_getContractions' has been explicitly marked deprecated here
 U_DEPRECATED int32_t U_EXPORT2
 ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:132:29: note: expanded from macro 'U_DEPRECATED'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:132:29: note: expanded from macro 'U_DEPRECATED'
 #define U_DEPRECATED U_CAPI U_ATTRIBUTE_DEPRECATED
                             ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:114:52: note: expanded from macro 'U_ATTRIBUTE_DEPRECATED'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:114:52: note: expanded from macro 'U_ATTRIBUTE_DEPRECATED'
 #    define U_ATTRIBUTE_DEPRECATED __attribute__ ((deprecated))
                                                    ^
 1 warning generated.
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/zstrfmt.cpp:1627:40: warning: 'ures_getLocale' is deprecated [-Wdeprecated-declarations]
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/zstrfmt.cpp:1627:40: warning: 'ures_getLocale' is deprecated [-Wdeprecated-declarations]
             const char *bundleLocStr = ures_getLocale(localeBundle, &status);
                                        ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/unicode/ures.h:299:1: note: 'ures_getLocale' has been explicitly marked deprecated here
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/unicode/ures.h:299:1: note: 'ures_getLocale' has been explicitly marked deprecated here
 U_DEPRECATED const char* U_EXPORT2 
 ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:132:29: note: expanded from macro 'U_DEPRECATED'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:132:29: note: expanded from macro 'U_DEPRECATED'
 #define U_DEPRECATED U_CAPI U_ATTRIBUTE_DEPRECATED
                             ^
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:114:52: note: expanded from macro 'U_ATTRIBUTE_DEPRECATED'
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu\unicode/umachine.h:114:52: note: expanded from macro 'U_ATTRIBUTE_DEPRECATED'
 #    define U_ATTRIBUTE_DEPRECATED __attribute__ ((deprecated))
                                                    ^
 1 warning generated.
-In file included from D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uspoof.cpp:17:
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/unicode/uspoof.h:858:1: warning: 'uspoof_getSkeletonUnicodeString' has C-linkage specified, but returns user-defined type 'icu::UnicodeString &' which is incompatible with C [-Wreturn-type-c-linkage]
+In file included from J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uspoof.cpp:17:
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/unicode/uspoof.h:858:1: warning: 'uspoof_getSkeletonUnicodeString' has C-linkage specified, but returns user-defined type 'icu::UnicodeString &' which is incompatible with C [-Wreturn-type-c-linkage]
 uspoof_getSkeletonUnicodeString(const USpoofChecker *sc,
 ^
 1 warning generated.
-In file included from D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uspoof_impl.cpp:9:
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/unicode/uspoof.h:858:1: warning: 'uspoof_getSkeletonUnicodeString' has C-linkage specified, but returns user-defined type 'icu::UnicodeString &' which is incompatible with C [-Wreturn-type-c-linkage]
+In file included from J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uspoof_impl.cpp:9:
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/unicode/uspoof.h:858:1: warning: 'uspoof_getSkeletonUnicodeString' has C-linkage specified, but returns user-defined type 'icu::UnicodeString &' which is incompatible with C [-Wreturn-type-c-linkage]
 uspoof_getSkeletonUnicodeString(const USpoofChecker *sc,
 ^
 1 warning generated.
-In file included from D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uspoof_build.cpp:27:
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/unicode/uspoof.h:858:1: warning: 'uspoof_getSkeletonUnicodeString' has C-linkage specified, but returns user-defined type 'icu::UnicodeString &' which is incompatible with C [-Wreturn-type-c-linkage]
+In file included from J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uspoof_build.cpp:27:
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/unicode/uspoof.h:858:1: warning: 'uspoof_getSkeletonUnicodeString' has C-linkage specified, but returns user-defined type 'icu::UnicodeString &' which is incompatible with C [-Wreturn-type-c-linkage]
 uspoof_getSkeletonUnicodeString(const USpoofChecker *sc,
 ^
 1 warning generated.
-In file included from D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uspoof_conf.cpp:20:
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/unicode/uspoof.h:858:1: warning: 'uspoof_getSkeletonUnicodeString' has C-linkage specified, but returns user-defined type 'icu::UnicodeString &' which is incompatible with C [-Wreturn-type-c-linkage]
+In file included from J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uspoof_conf.cpp:20:
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/unicode/uspoof.h:858:1: warning: 'uspoof_getSkeletonUnicodeString' has C-linkage specified, but returns user-defined type 'icu::UnicodeString &' which is incompatible with C [-Wreturn-type-c-linkage]
 uspoof_getSkeletonUnicodeString(const USpoofChecker *sc,
 ^
 1 warning generated.
-In file included from D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/uspoof_wsconf.cpp:22:
-D:/Android/AndroidStudioProjects/sqlite/sqlite3/src/main/jni/sqlite/../icu/unicode/uspoof.h:858:1: warning: 'uspoof_getSkeletonUnicodeString' has C-linkage specified, but returns user-defined type 'icu::UnicodeString &' which is incompatible with C [-Wreturn-type-c-linkage]
+In file included from J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/uspoof_wsconf.cpp:22:
+J:/Android/Projects/sqlite_android/sqlite3/src/main/jni/sqlite/../icu/unicode/uspoof.h:858:1: warning: 'uspoof_getSkeletonUnicodeString' has C-linkage specified, but returns user-defined type 'icu::UnicodeString &' which is incompatible with C [-Wreturn-type-c-linkage]
 uspoof_getSkeletonUnicodeString(const USpoofChecker *sc,
 ^
 1 warning generated.
