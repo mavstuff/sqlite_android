@@ -1,4 +1,4 @@
-# SQLite for Android with Database from Assets (Resurces) support and Unicode Search
+# SQLite for Android with Database from Assets (Resources) support and Unicode Search
 
 The build is based on SQLite Android bindings and supports the long-awaited feature of opening the database from resources (or assets).
 
@@ -9,7 +9,7 @@ The build is based on SQLite Android bindings and supports the long-awaited feat
 
 ## Software used
 
-SQLite Android Bidnings https://sqlite.org/android/doc/trunk/www/index.wiki
-SQLite and ICU https://habr.com/ru/post/122408/
+SQLite Android Bidnings https://sqlite.org/android/doc/trunk/www/index.wiki 
+SQLite and ICU https://habr.com/ru/post/122408/ 
 
 Author - Artem Moroz artem.moroz[at]gmail.com
